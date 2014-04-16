@@ -220,7 +220,7 @@ public class _3v3Start extends JFrame{
 
 	public static void main(String[] args) {
 
-		new _3v3Start();
+		new _3v3Start();//
 
 
 	}
